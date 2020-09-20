@@ -1,4 +1,4 @@
-# PPT to PDF with Breaks
+# PowerPoint Slides to PDF with Breaks
 
 This is a simple project that turns PowerPoint Slides into PDF files with mouse-click-triggered animations turned into page separators. 
 
@@ -9,7 +9,7 @@ This is a simple project that turns PowerPoint Slides into PDF files with mouse-
 - Click `File - Import File`, choose the `addBreak.bas` file in this repository.
 - Turn back to PowerPoint window and click `Macros`
 - Click `addAnimationBreaks` and `Run` at the right side.
-- It is done! 
+- It is done! See the folder and you will find `export.pdf`!
 
 ## Notice
 
@@ -23,4 +23,4 @@ This repository comes with a sample called `sample.pptx` , which demonstrated on
 ### After
 ![after](./after.png)
 
-## Have Fun!
+**Have Fun!**
