@@ -18,9 +18,9 @@ After running the macro, your file opened will be `backup.pptx`, remember to ope
 ## Demo
 
 This repository comes with a sample called `sample.pptx` , which demonstrated one scenario that this product is used, and the PDF file exported from it, you may also try it yourself. You may also see the images below:
-
-![before][./before.png]
-
-![after][./after.png]
+### Before
+![before](./before.png)
+### After
+![after](./after.png)
 
 ## Have Fun!
