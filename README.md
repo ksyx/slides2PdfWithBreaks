@@ -4,10 +4,10 @@ This is a simple project that turns PowerPoint Slides into PDF files with mouse-
 
 ## How to Use
 
-- Open PowerPoint and turn to `Developer` tab in the ribbon
-- Click `Visual Basic`
-- Click `File - Import File`, choose the `addBreak.bas` file in this repository.
-- Turn back to PowerPoint window and click `Macros`
+- Download or clone the repo to local
+- Open PowerPoint and press <kbd>Alt</kbd> + <kbd>F11</kbd> (`Visual Basic` in `Developer` tab)
+- Click `File - Import File` or press <kbd>Ctrl</kbd> + <kbd>M</kbd>, choose the `addBreak.bas` file in this repository.
+- Turn back to PowerPoint window and press <kbd>Alt</kbd> + <kbd>F8</kbd> (`Macro` in `Developer` tab)
 - Click `addAnimationBreaks` and `Run` at the right side.
 - It is done! See the folder and you will find `export.pdf`!
 
